@@ -8,6 +8,7 @@ There are three small programs.
 
 1. Dijkstra Shortest Path
   + This program finds the shortest path between two nodes using Dijkstra's algorithm.
+  + The student implementation is found in "myGraph.py".
 2. Sorting Runtime
   + This program implements different sorting algorithms and then calculates the runtime to compare avg runtime of each algorithm.
 3. Trie
