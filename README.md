@@ -11,6 +11,7 @@ There are three small programs.
   + The student implementation is found in "myGraph.py".
 2. Sorting Runtime
   + This program implements different sorting algorithms and then calculates the runtime to compare avg runtime of each algorithm.
+  + The student implementation is found in "mySortingFunctions.py".
 3. Trie
   + This program takes a populated trie and then returns the appropriate strings that contain an input prefix.
 
