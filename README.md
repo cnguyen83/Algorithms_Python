@@ -3,7 +3,7 @@ These are guided Python projects done for an algorithms class.
 
 These projects use Python 2.7 and were originally created in a text editor and then run on the command line.
 
-##Files
+## Files
 There are three small programs.
 
 1. Dijkstra Shortest Path
@@ -16,5 +16,5 @@ There are three small programs.
   + This program takes a populated trie and then returns the appropriate strings that contain an input prefix.
   + The student implementation is found in "trieClass.py".
 
-##Note
+## Note
 + These projects are possibly still being used by the class and will be removed at my discretion if requested by the professor and institution.
